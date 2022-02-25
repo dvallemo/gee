@@ -1,1 +1,3 @@
-# gee
+# Soil Moisture Passive
+
+This app allows the user to visualize soil moisture estimates from the NASA-USDA Enhanced SMAP Global Soil Moisture Data. The app generates time series of average soil moisture estimates over a region of interest selected by the user. NASA has launched the Soil Moisture Active and Passive satellite mission (SMAP) to collect key information on soil water content on a global scale. While SMAP has proven to be reliable in collecting large-scale soil moisture data, it is necessary to continue the validation of the product using in situ observations. At the local test site in Millbrook, New York, in situ observations of soil moisture are continuously collected and compared to satellite estimates. This Google Earth Engine application was developed by i-SMART laboratory team at Stevens Institute of Technology with a strong contribution from two undergraduate students: Peter Shikhman and David Loffe
